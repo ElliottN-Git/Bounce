@@ -49,7 +49,6 @@ import bounce.views.TableModelAdapter;
  * properties from the bounce.properties file, one of which is the name of a
  * ShapeFactory implementation class that is used to create Shapes on request.
  *
- * @author Ian Warren
  */
 @SuppressWarnings("serial")
 public class Bounce extends JPanel {

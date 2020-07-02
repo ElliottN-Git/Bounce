@@ -20,7 +20,6 @@ import bounce.Shape;
  * Bounce application's properties file, named bounce.properties. This file
  * should be stored in the user's project directory.
  * 
- * @author Ian Warren
  *
  */
 public class BounceConfig {
